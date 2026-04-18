@@ -1,4 +1,4 @@
-[Uploading README (1).md…]()
+[README.md](https://github.com/user-attachments/files/26859032/README.md)
 # Olá, eu sou a Sophya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
@@ -22,12 +22,18 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420px" />
+  <img src="https://external-preview.redd.it/tC7pN4zTFUNYMCZ8iZ6qm1r3O1Koza0TF0yUNi6jpkE.gif?width=600&height=300&s=710df0c31b0bf441ce1ea81c1045f8a16c305569" width="500px" />
 </div>
 
 ---
 
 ## 👩‍💻 Sobre mim
+
+<div align="center">
+  <img src="https://wallpaperaccess.com/full/8351153.gif" width="420px" />
+</div>
+
+<br/>
 
 ```javascript
 const sophya = {
