@@ -1,8 +1,8 @@
-[README.md](https://github.com/user-attachments/files/26858352/README.md)
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Olá, eu sou a Sophya!
+[Uploading README (1).md…]()
+# Olá, eu sou a Sophya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonada+por+Design+%2B+C%C3%B3digo;Criando+e+aprendendo+todos+os+dias+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas+%F0%9F%92%9C;Apaixonada+por+Design+%2B+Front-end+%E2%9C%A8;Transformando+ideias+em+realidade+%F0%9F%8C%B8;Sempre+aprendendo%2C+sempre+criando+%F0%9F%92%AB" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,6 +14,15 @@
   <a href="https://www.linkedin.com/in/sophya-eva-753705306">
     <img src="https://img.shields.io/badge/LinkedIn-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:Sophyacampos966@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420px" />
 </div>
 
 ---
@@ -24,8 +33,9 @@
 const sophya = {
   localização:  "Brasil 🇧🇷",
   estudando:    "Desenvolvimento de Sistemas",
-  interesses:   ["Design", "Front-end", "UI/UX"],
-  atualmente:   "Aprendendo e criando todos os dias 💜",
+  interesses:   ["Marketing Digital", "Design", "Front-end"],
+  objetivo:     "Crescer profissionalmente em tecnologia 🌸",
+  habilidades:  ["Organização", "Trabalho em equipe", "Aprendizado contínuo"],
 };
 ```
 
@@ -67,18 +77,6 @@ const sophya = {
 
 ---
 
-## 🎬 Vibe de codar
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sophyaeva&color=7B2FBE&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" />
-</div>
-
-<div align="center">
-  <i>"Design + código + dedicação." 💜</i>
+  <img src="https://komarev.com/ghpvc/?username=sophyaeva&color=C77DFF&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" />
 </div>
