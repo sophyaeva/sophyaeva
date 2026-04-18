@@ -27,11 +27,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
-
-<div align="center">
-  <img src="https://wallpaperaccess.com/full/8351153.gif" width="420px" />
-</div>
+##  Sobre mim
 
 <br/>
 
@@ -47,7 +43,7 @@ const sophya = {
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -70,7 +66,7 @@ const sophya = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sophyaeva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -82,7 +78,3 @@ const sophya = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sophyaeva&color=C77DFF&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" />
-</div>
