@@ -1,7 +1,9 @@
 [README.md](https://github.com/user-attachments/files/26859032/README.md)
 # Olá, eu sou a Sophya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas+%F0%9F%92%9C;Apaixonada+por+Design+%2B+Front-end+%E2%9C%A8;Transformando+ideias+em+realidade+%F0%9F%8C%B8;Sempre+aprendendo%2C+sempre+criando+%F0%9F%92%AB" alt="Typing SVG" />
+</div>
 
 <br/>
 
