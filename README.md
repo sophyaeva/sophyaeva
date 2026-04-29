@@ -66,8 +66,9 @@ const sophya = {
 
 ---
 
-
+<div align="center">
 <img width="860" height="230" alt="game" src="https://github.com/user-attachments/assets/c205f2d0-aa60-4078-953a-aaeec5e85c82" />
+</div>
 
 ##  GitHub Stats
 
